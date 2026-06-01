@@ -156,13 +156,7 @@ joblib
 
 ---
 
-## 📸 Screenshots
 
-> *Add your app screenshots here*
-
-| Text Analysis | Speech Mode | Result Output |
-|---------------|-------------|---------------|
-| ![text](#) | ![speech](#) | ![result](#) |
 
 ---
 
